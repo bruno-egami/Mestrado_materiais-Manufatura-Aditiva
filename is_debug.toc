@@ -1,0 +1,6 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Inovação: A Formulação Binder-Free}{3}{0}{1}
+\beamer@sectionintoc {2}{Reologia e Estabilidade da Tinta}{5}{0}{2}
+\beamer@sectionintoc {3}{Desempenho Térmico e Mecânico}{7}{0}{3}
+\beamer@sectionintoc {4}{Conclusão}{9}{0}{4}
+\beamer@sectionintoc {5}{Referências}{11}{0}{5}
